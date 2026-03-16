@@ -1,6 +1,6 @@
 # Projeto: Sistema de Gerenciamento de Tarefas
 
-##Descrição do Sistema
+## Descrição do Sistema
 O Sistema de Gerenciamento de Tarefas tem como objetivo ajudar usuários a organizar
 suas atividades diárias, permitindo registrar tarefas, definir prioridades e acompanhar o
 progresso das atividades.
@@ -21,7 +21,6 @@ desejam melhorar sua organização.
 - Ana Pereira
 
 ### Tecnologias Utilizadas
-| | |
 |-----|-----|
 | Linguagem de programação: JavaScript | JavaScript |
 | Banco de dados: PostgreSQL | PostgreSQL |
