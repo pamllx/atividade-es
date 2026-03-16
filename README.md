@@ -21,6 +21,7 @@ desejam melhorar sua organização.
 - Ana Pereira
 
 ### Tecnologias Utilizadas
+| | |
 |-----|-----|
 | Linguagem de programação: JavaScript | JavaScript |
 | Banco de dados: PostgreSQL | PostgreSQL |
